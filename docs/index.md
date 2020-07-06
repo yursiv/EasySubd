@@ -29,7 +29,7 @@ For full documentation visit [Getting Started](https://www.mkdocs.org/#getting-s
 
 [Hotkeys]
 
-[Modeling]: Modeling
+[Modeling]: Modeling/modeling_index.md
 [Image Modeling]: Image%20Modeling
 [Data Managment]: Data%20Managment
 [Materials]: Materials
