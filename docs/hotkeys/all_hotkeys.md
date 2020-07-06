@@ -421,4 +421,4 @@
 | Ctrl Shift     |     | MB5         | Compare camera to bimage          | Compare camera to bimage             |
 | Alt Shift      |     | MB5         | Set im camera modal               | Set im camera modal                  |
 | Ctrl Alt       |     | MB5         |                                   |                                      |
-| Ctrl Alt Shift |     | MB5         |                                   |                                      |
+| Ctrl Alt Shift |     | MB5         |                                   |                                      | 
