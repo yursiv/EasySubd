@@ -1,1 +1,5 @@
-[Mesh Strokes](1%20mesh_strokes/define_strokes.md)
+[Define Mesh Strokes](define_strokes.md)
+
+[Define Face Groups](define_fgroups.md)
+
+[UV Editing](uv_editing.md)
