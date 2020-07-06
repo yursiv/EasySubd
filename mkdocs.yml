@@ -1,3 +1,6 @@
 site_name: EasySubd
 
+nav:
+  - Home: index.md
+
 theme: readthedocs
